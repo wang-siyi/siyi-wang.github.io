@@ -5,13 +5,13 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=gb2312" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Wang-siyi</title>
+<title>Siyi Wang</title>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-menu">
-<div class="menu-category">Wang-siyi</div>
+<div class="menu-category">Siyi Wang</div>
 <div class="menu-item"><a href="index.html" class="current">Home</a></div>
 <div class="menu-item"><a href="publication.html">Publication</a></div>
 <div class="menu-item"><a href="album.html">Album</a></div>
@@ -22,7 +22,7 @@
 </div>
 <table class="imgtable"><tr><td>
 <a href="https://Wang-siyi.github.io"><img src="photos/bio.jpg" alt="alt text" width="175px" /></a>&nbsp;</td>
-<td align="left"><p><a href="https://Wang-siyi.github.io">Wang-siyi, <i>M.Eng. Student, B.Sc.</i></a><br /><br />
+<td align="left"><p><a href="https://Wang-siyi.github.io">Siyi Wang, <i>M.Eng. Student, B.Sc.</i></a><br /><br />
 Email: siyiwang@hit.edu.cn<br /><br /></p>
 <p>Advisor: <a href="http://homepage.hit.edu.cn/wuligang" target ="_blank">Prof. Dr. Ligang Wu</a><br /><br /></p>
 <p>Research Inst. of Intelligent Control and Systems</a><br /></p>
@@ -30,7 +30,7 @@ Email: siyiwang@hit.edu.cn<br /><br /></p>
 <p><a href="http://en.hit.edu.cn/" target ="_blank">Harbin Institute of Technology</a></p>
 </td></tr></table>
 <h2>About me</h2>
-<p>My Name is Wang-siyi, 袁臻毅 (in Chinese). I was born in Fenyi, a small but beautiful city, in 1998. After spent my earlier peaceful 16 years in Fenyi, I went to Harbin where I started my academic journey.</p>
+<p>My Name is Siyi Wang, 王思怡 (in Chinese). I was born in Fenyi, a small but beautiful city, in 1996. After spent my earlier peaceful 16 years in Fenyi, I went to Harbin where I started my academic journey.</p>
 <p>I am currently a M.Sc. student in System & Control Group supevised by Prof. Dr. Ligang Wu at School of Astro. of HIT. Prior to joining Dr. Wu's group to pursue my M.Sc. Degree, I recieved my B.Sc. Degree from Honors School of HIT.</p>
 <p>My research interests focus on Event-triggered control, Networked Control, Trajectory tracking control, Sliding mode control and their application to Robotics, etc. I am now seeking for a suitable Ph.D. position started from 2020 Fall, if you are interested with my background, please feel free to contact me.</p>
 
